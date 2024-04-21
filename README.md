@@ -1,6 +1,7 @@
-# adv_basics
+# Quiz App
 
-A new Flutter project.
+The first lab for Flutter project.
+
 
 ## Getting Started
 
